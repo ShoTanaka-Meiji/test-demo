@@ -3,5 +3,5 @@
 gradle init --type java-application
 rm gradlew.bat
 vim .gitignore
-vim .travis.yml enviroment
+vim .travis.yml /Set java enviroment
 
